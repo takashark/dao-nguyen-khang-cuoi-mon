@@ -1,0 +1,115 @@
+/* CSS Document */
+.logo{
+font-size: 50px;
+text-decoration: none;
+color:#1F1F1F;
+}
+.nav ul{
+list-style: none;
+}
+.nav li{
+margin: 0 16px;
+}
+.nav li a{
+text-decoration: none;
+color:white;
+}
+
+/*header*/
+.banner{
+background: url("../27_i08_2.png");
+background-position: top;
+padding: 160px 0;
+color: white;
+}
+.banner a1{
+font-size: 50px;
+word-spacing: 20px;
+}
+.banner h1{
+font-weight: 500;
+letter-spacing:10px;
+word-spacing: 10px;
+line-height: 10px;
+}
+.banner p{
+margin: 8px 0 500px
+}
+.btn{
+background: #3C74CB;
+color: white;
+text-decoration: none;	 
+padding: 8px 32px;
+}
+.btn:hover{
+opacity: 0.8
+}
+#header {
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+/*banner*/
+.services{
+padding: 80px
+}
+.services h1{
+padding: 80px
+}
+.feature{
+overflow:hidden;
+height:400px;
+width: 1000px
+}
+.content{
+padding: 32px 0;
+}
+.content p{
+padding: 16px 0;
+}
+.icon a {
+margin-left: 8px;
+color:#1f1f1f;
+font-size:16px
+}
+
+.footer{
+background: #000000;
+height: 100px;
+}
+p4{
+color: white
+}
+a2{
+color: white
+}
+.content{
+list-style: none;
+}
+.content {
+margin: 0 16px;
+}
+.content {
+text-decoration: none;
+color:#234DEC;
+}
+.font {
+background-color:#13162A;
+height: 20px;
+width: 800px;
+}
+.font :hover{
+opacity: 0.1;
+}
+.lienhe{
+font-size: 20px;
+text-decoration: none;
+color:#1F1F1F;
+padding: 20px;
+}
